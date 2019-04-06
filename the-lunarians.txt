@@ -1,7 +1,7 @@
 The Lunarians
 -------------
 
-This story is about people living on The Moon about 100,000 years in the future. An atmosphere is kept under a living tent that covers nearly the entire surface. The surface is a lush jungle dotted with cities. These cities are generally situated inside ancient impact craters. The sky is suspended by air pressure and stabilized by alighting on the tree tops. Enormous fossil trees make for a high vaulted sky in many areas.
+This story is about people living on The Moon about 50,000 years in the future. An atmosphere is kept under a living tent that covers nearly the entire surface. The surface is a lush jungle dotted with cities. These cities are generally situated inside ancient impact craters. The sky is suspended by air pressure and stabilized by alighting on the tree tops. Enormous fossil trees make for a high vaulted sky in many areas.
 
 Material trade, genetic, and cultural mixing are driven mainly by groups of nomadic peoples called "festivals". There are two kinds of festivals: light and dark. The festival of light avoids ever crossing the terminator line into night time. The festival of darkness avoids ever crossing the terminator line into the day time. Troubled youths are often sent to the festival of darkness which caters to carnal and eccentric personalities. The festival of light provides a more structured, sophisticated environment and is typically peopled by those seeking higher learning and enlightenment.
 
@@ -9,11 +9,35 @@ Technology and history have been largely forgotten. Some obvious vestiges remain
 
 The Lunarians know they came from Earth, which is visible only on one hemisphere of The Moon, where it hangs, forever unmoving in the sky. They communicate with people on Earth by lighting fires all across the face of The Moon all at once. This is done at certain times in a sort of game of call and response with the people of Earth who almost always respond in kind.
 
-The Lunarians alive during the events of the story are the victors of a great war in which the people living underground came to the surface once it was lush and habitable. As it is remembered, they killed off the “native” inhabitants of the surface, who were the ones who worked for centuries to transform the once-dead surface into an Eden.
+The Lunarians alive during the events of the story are the victors of a great war in which the people living underground came to the surface once it was lush and habitable. As it is remembered, they killed off the "native" inhabitants of the surface, who were the ones who worked for centuries to transform the once-dead surface into an Eden.
 
-These natives of the surface embraced high technology much more than those living underground. They heavily augmented their bodies with biotechnology. The most iconic result is they had wings and could fly. For this reason they are known to the living Lunarians as “The Angels”.
+These natives of the surface embraced high technology much more than those living underground. They heavily augmented their bodies with biotechnology. The most iconic result is they had wings and could fly. For this reason they are known to the living Lunarians as "The Angels".
 
-The Lunarians have a deep cultural guild about the Angel genocide. The big reveal in this story is that the Angels weren’t literally murdered so much as they were forced to give up technology by a wave of Luddism. All living Lunarians are descendants of both Angels and those who lived underground.
+The Lunarians have a deep cultural guilt about the Angel genocide. The big reveal in this story is that the Angels weren't literally murdered so much as they were forced to give up technology by a wave of Luddism. All living Lunarians are descendants of both Angels and those who lived underground.
+
+***
+
+Catharine breathed in as she drew back the string of her hunting bow. She breathed out slowly, sighting the grazing buck down the arrow's shaft.
+
+The buck's downy coat was dimly lit by a shaft of rainbow-tinted light that shone down from the dawn sky.
+
+It startled at some flickering shadow in the shaft of light, raising up its head.
+
+It's glassy dark eye stared blankly in her direction. Had it seen her? It chewed once. Twice. Puffed out a breath visible in the cold air.
+
+Then she saw her arrow fly and hit its heart. She released the arrow. It flew as she had imagined it.
+
+She didn't like the sight of blood. But this buck could eat a lot of <crop>, and that was for her and her family.
+
+The trade seemed unfrair to her: some occationaly stolen crops for some occationally eaten relatives.
+
+But that was the deal humans had stuck with deer long ago when they brought them to the moon.
+
+She strung the animal up to bleed from a nearby tree branch. Then she prepared it for travel, trying its hands and feet together.
+
+She hefted it over her shoulder with a stick. She bagan walking back into town along the stone path.
+
+
 
 ***
 
@@ -27,11 +51,11 @@ Troy silently unbuckles the clasps holding his leg armor.
 
 "No, Ajax," she pleads, "you are in control. You are your thoughts. Feelings are imperfect tools. We use them when they're useful. The hammer doesn't control the architect."
 
-Another long pause. He unbuckles the clasps holding his chest armor. He hears russling of leaves in the breeze.
+Another long pause. He unbuckles the clasps holding his chest armor. He hears rustling of leaves in the breeze.
 
 He slowly removes his helmet and places it silently on the dirt. The crackling of the campfire.
 
-Then the sound of comotion from inside the tent. Kaye says something muffled that sounds like, "What are you..."
+Then the sound of commotion from inside the tent. Kaye says something muffled that sounds like, "What are you..."
 
 He strips off the freed armor and bends down to withdraw his knife from its ankle holster.
 
@@ -43,13 +67,13 @@ As he becomes aware they are no longer alone in the tent, he moves both hands to
 
 The words are for Troy but Ajax doesn't even turn around to face him.
 
-Troy plungest the knife into Ajax at the neck. His body convulces then slumps to the ground.
+Troy plunges the knife into Ajax at the neck. His body convulses then slumps to the ground.
 
 Troy throws the blade to the ground and holds his hands against the wound.
 
 Ajax looks up at him, bewildered. He mouths the words, "Just like that?"
 
-Troy nods and answeres, "I can't let your anger hurt this troup, Ajax. You're family to me. But I can't let you hurt the rest of my family."
+Troy nods and answeres, "I can't let your anger hurt this troop, Ajax. You're family to me. But I can't let you hurt the rest of my family."
 
 Ajax closes his eyes. "You'll burn me up. Like garbage."
 
@@ -59,7 +83,7 @@ I won't forget it. But neither will I let it consume me. Like it consumed you. I
 
 Ajax, startled, opens his eyes and looks fearfully at Troy. He shutters a little. Then he is gone.
 
-The rest of his day passes by like a dream. He talks to the troup. He washes the blood of his hands. He sits crying while the body is prepared for cremation.
+The rest of his day passes by like a dream. He talks to the troop. He washes the blood of his hands. He sits crying while the body is prepared for cremation.
 
 Then finally he is alone in his tent. Finally he can sleep. He unrolls his bed and hangs up his armor. He sets out a small candle and lights it.
 
@@ -69,3 +93,162 @@ Troy sets out another candle and lights it.
 
 And then another. And another...
 
+***
+
+the sky is opaque to radio. the people have simple radio technology i.e. walkie talkies. this is how they talk to one another at close range.
+
+the signal can't go far but it can bounce off the sky and so reach over the horizon e.g. people inside the city can talk to people just on the other side of the rim.
+
+build up to a scene where someone gets the genius idea to point a radio receiver at the Earth. they hear nothing because the sky is obaque to radio.
+
+this is first and foremost an isolationist feature added to the sky during the downfall of the angels.
+
+in response at least one group sent up identical orbital satellites at legrange points L4 and L5 to act as arcs of angel culture.
+
+among other things this arc contains the instrutions for building and safely growing mega tree seeds. this resolves the ultimate tension in the book: fighting decay.
+
+this book is written in english (an ancient language) because it is a gift to be added to that archive in reverance to its creators.
+
+finding the legrange points and predicting treasure may be found there is the major breakthrough towards the end of the book.
+
+***
+
+Travel
+------
+
+Lunar radius: 1,079 miles
+Lunar orbital period: 27 days
+Average speed to stay in the light/dark: 10 mph
+Typical festival caravan travel speed: 30 mph
+Caravans are pulled by animal power (dogs?)
+Festivals travel from city to city
+They plan routes to maximize trade
+But they are careful not to isolate poor cities
+
+Ecology
+-------
+
+
+
+
+Cultures
+--------
+
+Earth-siders are people living in places where Earth can be seen in the sky.
+They are generally more conscious of history and their place in nature.
+Far-siders are more concerned with their own lives and prosperity.
+There are more ancient tunnel networks on the Earth side.
+Some of these have practical and ritual uses for the Earth-siders.
+Far-siders have a taboo against tunnel building.
+
+Inhabitants of the highlands are kind of rednecks.
+A relatively high percentage of their time is spent on labor.
+They fight hard to acquire water and grow food.
+Life is especially hard in the northern highlands which are both cold and dry.
+They have a higher birth rate and shorter life expectancy.
+
+
+Environments
+------------
+
+Roads
+	Roads connect the cities in a huge network/web.
+	They are built to last and made from large heavy stones layed on bedrock.
+	The old roads were built by the Angels themselves.
+	These roads are wide and perfectly smooth.
+	They're made from gargantuan slabs of rock.
+	Newer roads are narrower and made from smaller rocks.
+	Keeping roads clear from debris is the responsibility of nearby city folk.
+
+Cities
+	Cities are typically built in impact craters.
+	Older cities have high vaulted skies kept up by kilometers-tall petrified trees.
+	These mega trees were grown by the Angels using technology that vanished with them.
+	Cities usually have a lake in the center and have a mostly self-contained water cycle.
+	Larger cities build irrigation systems for watering farmland outside the crater rim.
+
+Tunnels
+	Tens of thousands of kilometers of ancient tunnels lie abandoned and largely forgotten.
+	Most are full of water but some have been spared this fate or have been pumped dry.
+
+Jungle
+	The majority of the surface is covered by lush jungle populated by Earth life.
+	The sky is held up by trees which grow extra tall in the low lunar gravity.
+	Plants have to cope with the short 14-day "winter" of total darkness.
+	Most plants are edible crops that have partially reverted to wild type.
+	Many animals fill differet niches than they used to on Earth.
+
+Highlands
+	The highlands are mostly baren wastelands.
+	In the highest regions no trees grow so the sky actually touches the ground.
+	These regions, like the poles, are inaccessible.
+	Some isolated peoples live in oases.
+
+Seas
+	The sky floats on sufficiently large bodies of water.
+	These seas are not well oxigenated so life sticks to the coastline.
+
+Elevation
+	https://onmoon.jpl.nasa.gov/index.html
+	https://www.google.com/moon/
+	https://astrogeology.usgs.gov/search/map/Moon/LRO/LOLA/Lunar_LRO_LOLA_Global_LDEM_118m_Mar2014
+	https://svs.gsfc.nasa.gov/4236
+
+Characters
+----------
+
+Troy - caller of the (?) night festival
+
+
+Outline
+-------
+
+ideas for tension:
+	- 3 aliens
+	- 1 global disaster
+	- 2 cultural wounds
+	- 4 interpersonal conflict
+
+Chapter 1
+	intro to night festival
+Chapter 2
+	someone is left behind
+Chapter 3
+	intro to day festival
+	start mission to discover history
+Chapter 4
+	clue received
+Chapter 5
+	leave festival in search of clue
+Chapter 6
+	only clue was a dead end
+Chapter 7
+	
+Chapter 8
+	
+Chapter 9
+	big reveal angels didnt die
+
+Timeline
+--------
+
+ 2030 First moon base, small rigid domes
+ 2100 First large tunnel networks
+ 2222 Nuclear power outlawed
+ 2231 Self-replicating solar sheets invented
+ 2240 Affordable power results in population boom
+ 2280 Self-replicating dome invented ("sky")
+ 2289 Major tunnel collapses are blamed on overpopulation
+ 2300 Germ-line birth control becomes mandatory
+ 2304 Transhumanist movement gives rise to Angel culture
+ 2306 Angels sign 1000-year contract for delivery of volatiles
+ 2315 Kilometer-tall trees invented to support the sky
+ 2500 Whole-surface tenting project is completed
+ 2700 Peak bombardment of surface by volatiles
+ 2768 Population maxes out at 1 billion
+ 2794 Widespread power rationing by tunnel-dwellers
+ 2797 Tunnel-dwellers suffer major earthquakes and flooding
+ 2800 The Angels fall
+ 2843 Last radio signal is sent from the Moon
+  ...
+53000 Our story begins

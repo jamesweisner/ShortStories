@@ -1,0 +1,84 @@
+Gods, All the Way Down
+by James Weisner
+Chapter 1
+
+    “Come on, you can do it. Just a little closer.” Philip said aloud in the the empty laboratory. His eyes darted back and forth between the calorimeter activity light and the beam alignment graph. In the display, the clockwise and counterclockwise beams appeared right on top of each other. Then the activity light blipped. Just alight for one short pulse, and then dark again for an eyeblink.
+    In that eyeblink, many protons dumped hundreds of TeV of energy into a tiny region of space, forming a microscopic black hole. Inside this wounded region of spacetime, a violent reaction occurred. The once-stable vacuum potential at this particular point in space was unfrozen for the first time in 13.75 billion years.
+
+Newly awakened, it writhed and shook until it settled into a new configuration. This new, lower energy state set of a cascade of cosmic inflation, changing the crinkled up mess in the heart of the black hole into a nice, flat spacetime. Gravitational energy was borrowed from the cosmic ledger to produce an exponential expansion. Bruises left by quantum fluctuations seeded overly dense regions in this newborn fireworld.
+As this ever-growing pocket space cooled, the laws of physics returned to normal. Taking after it’s parent’s predilections, matter won out over antimatter, by a recognizably small fraction. The some of the remaining hadrons fused into helium. Electrons found mates forming atoms, and relinquished their blockade on photons.
+Atoms clumped to form dust. Dust into stars. Stars cooked metals. Metals formed rocky planets. Some rocky planets held onto thin layers of atmosphere and were covered with water from impacting ice balls. Organic chemistry favored some reactions over others.
+After just ten billion years, the number of living words in this pocket universe surpassed the square of its age in years. Life on surprisingly many some of these planets had its fleeting moment of intelligence.
+
+On one such ordinary planet, a rather extraordinary member of a rather extraordinary group of social animals constructed a telescope. It was no more or less lovingly constructed than any spyglass made by Galileo himself. It wasn’t even very different in design.
+Looking through this telescope, the animal saw stars previously unseen. It found the sky’s brightest, the wandering star, and noticed the star had six little children, just like its own. 
+Time passed. It watched them dance around the wandering star for half its life. Ever since it was an infant, the star had grown brighter and brighter. Now it was a feeble elder, and the wanderer, too became dimmer and dimmer as the years fell down like grains of sand.
+In a moment of clarity, it realized this was due to the phase of the planet as seen from his own, the shadow of night covering more and more of the face turned towards him as it orbited much farther out from the sun than his own small planet.
+It marveled at the great disparity in size of his eye and the wandering planet. It shivered at the vastness of time that the wanderer must have been out there, searching for whatever it was for which stars searched. It wondered if there was even any end to the depths in which the stars floated, or the time they’d floated there.
+So wrapped was it in thought that the embolism escaped notice as it clogged a critical vesicle in the creature’s circulatory system. The growing pain, once noticed, was unmistakably the call to return to the soil. The soil; from which all things are born, and to which all must eventually return. It lost control of its many legs which began to dig a hasty grave.
+It extended both eyestalks as high as possible to watch the stars twinkle one last time. The lids shut against the rising soil as it sank down onto seizing limbs, now starved for oxygen. Activity in its brain began to fade away.
+He feared not death. His time had finally fallen. All things must fade away. Will the stars, too, fade away? To which soil do they return?
+And the stars did fade away. They winking out one by one, until only the black holes remained. Hawking radiation ensured these black holes, too, would fade away, as all things must do. When each black hole vanished, so too did it’s own contents of countless galaxies. Galaxies which each had, at their heart, a black hole, and so on, without end.
+
+Phillip saw the activity light glow brighter and brighter as the calorimeter registered the spray of Hawking radiation from the microscopic black hole. It evaporated slowly at first, than with higher and higher intensity, until it popped out of existence, leaving behind a burst of subatomic particles. Phillip let out a yell of excitement which echoed through the empty halls. 
+As if in reply, the status light went out accompanied by an audible pop. The bank of fluorescent lights on the left side of the room went out. “That’s not good,” thought Phillip. A faint hiss he hadn’t noticed quickly became a loud roar. The status lights for one of the superconducting magnet went red. Then another. Then the rest.
+    “One of the magnets must have quenched, and dumped enough energy into the flimsy collider to spring a coolant leak. What could have caused the magnet to quench? It must have been an unexpectedly energetic collision.”
+
+* He realizes a relationship between black hole quantum state and radiation output.
+* Quantum encryption to factor 16-bit number using micro black holes.
+* Phillip accidentally triggers inflaton field creating a bubble universe.
+* Philip is an experimentalist with an undergrad assistant.
+
+* Phillip measuring bekenstein-hawking radiation, repeating a previous experiment by Ethan.
+
+Chapter 2
+
+Charles discovers message in CMBR.
+Charles is a theoretician playing with new beyond-Planck data.
+
+
+
+Chapter 3
+
+Phillip figures out a way to see into bubble universes.
+
+
+
+Chapter 4
+
+Charles puts the message on the Internet to get help decoding it.
+He doesn’t tell them where it came from.
+The question is ramp up from math to basic physics.
+It asks for the constants of nature to a specified precision.
+
+
+
+Chapter 5
+
+Phillip hears about the message and meets Charles.
+
+
+
+Chapter 6
+
+They create a universe to solve their own god’s question.
+They get an answer back.
+
+“Do you think our descendants will populate the whole galaxy and decide to spend the enormous resources it would take to choreograph the ballet of millions of black holes just to and reply to our universal experimenter?”
+
+“Maybe not your descendants, or mine, or even any from Earth, but some civilization in the galaxy probably will. You’ve seen the experimental results. It happens all the time.”
+
+
+
+Notes
+
+http://en.wikipedia.org/wiki/Micro_black_hole
+
+A mini-black hole would also have an entropy of only 4π nats, the minimum possible value.
+
+4π / ln(2) = 18.1294405673 bits of information.
+
+http://arxiv.org/abs/0811.1926
+
+http://www.cnn.com/2014/03/17/tech/innovation/big-bang-gravitational-waves/
+

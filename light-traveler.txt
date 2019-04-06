@@ -1,0 +1,129 @@
+Part 1: Discovery
+Chapter 1: SETI
+    Tom Elmer stood at the side entrance of the press room, trying to guess the number of audience members by the volume of their collective whispers. Never in his decade as director of the SETI@home project had he been interviewed by the press, not even so much as a local newspaper reporter. Now, he was about to tell the people of Earth that they might not alone in the cosmos. He fought down a surge of adrenaline, tried to focus on his breathing. Talking in front of an audience didn’t come naturally to Tom, but in his 51 years of life, he’d grown too tired to care what other people thought. He had this important job to do, so he closed his eyes, and willed all distraction and nervousness to fade away.
+The hiss of tense voices became like gentle ocean waves, the sterile stage lights became the warming afternoon sun, and his heart became a steady drumbeat. He saw his name and title appear on the wall behind the podium, and he marched up to act as reluctant profit, delivering humanity from its ancient solitude. He cleared his throat into the mic, and began.
+    “The SETI@home project is a scientific experiment that uses the Internet to help in the search for extraterrestrial intelligence. Members of the public participate by running a free program that downloads and analyzes telescope data. As a reliability test, a packet is sometimes distributed which contains a fake signal. These tests are run double-blind, so even staff members don’t know if it’s real or not until the package is discovered and examined. Recently, a signal was discovered, which does not appear to be one of these tests. Of course, before we can rule out local sources, like satellites and radio transmissions, we need to confirm the source with observatories across the world. This is being done now, and has stirred up attention.”
+    Just then, Tom felt a vibration in his pocket. Excitement threatened to overwhelm him as he reached for the complementary glass of water. He took a prolonged sip to buy time, as he fished out his phone from his pocket, and glanced at the screen. There was a new message from the SOFIA team, informing him that the twin spikes at 9 and 10 microns had been confirmed and are ongoing, which means the signal is still being received, and it’s coming from space. He stopped swallowing and just stood there for a moment, transfixed on the message. A growing rumble from the gathered newsmen and newswomen emphasized his silence.
+What should he do? Keep going with the stump speech, or deliver this breaking news? Hell, he’s the director, he can say whatever he wanted. But if he was wrong, if the SOFIA team had made some mistake, and it turned out to be a hoax or terrestrial noise, he’d be a laughing stock in the news. But he didn’t much care about that. Who reads the news anymore? And he trusted those NASA guys, they did a good job, even on a shoestring budget. According to protocol, he should wait for all the observatories to report their findings before making a public announcement of detection. But this wasn’t a public announcement, it was a press interview, during which, also according to protocol, he should be forthcoming with all relevant information. So, he changed tack and ad libbed the rest of his statement.
+    “Ladies and gentlemen, I’ve just received word from NASA that one of their telescopes has confirmed that the signal is ongoing, and originates from a distant source. This does not require the signal to be artificial, it could still be a natural phenomena. Back in 1967, astronomers found a signal that repeated several times a second, and they thought it was some sort of alien beacon. Turns out, it was only a pulsar, a kind of star that is rotating really fast, sending out this oscillating signal. So, we can’t say for sure that this signal is any different, but only that it was recognized by the SETI@home algorithm to be noteworthy, because it takes a form not known to be produced by any natural phenomena. As it happens, the signal is in the infrared range, which was only added to the SETI@home project on December 15th, 2018, just two months ago, from data gathered by the James Webb Space Telescope.
+    “We know little about the signal itself, other than the wavelength. Just like you tune your radio to different frequencies, infrared telescopes can show us different frequencies of light. This signal is close to the ten nanometer wavelength, which puts it in what we call the N-band. Most dedicated infrared telescopes and even some optical telescopes should be able to spot the signal. Actually, there appear to be two distinct peaks, which may indicate switching between two frequencies in time. In other words, it might be an FM signal.”
+    He was on a roll. Even though he had more to say, he paused to think long enough that the room erupted into a sea of raised hands and shouted questions. He pointed in a random direction, and the two closest people asked their questions simultaneously.
+    “Can you decode the message?”
+    “What are the contents of the signal?”
+Having already anticipated their joint question, he answered, “If there is a message encoded into the signal, it will take time to find. Following SETI protocol, once we hear back from all the observatories we’ve contacted, and they confirm an origin outside our solar system, all information relevant to the signal will be posted to the SETI website, and we will work with astrophysicists to try and explain the signal as a natural phenomena. But if no such explanation can be found, we will announce discovery to the US government and international community.” More hands shot up, but one reporter simply blurted out,
+“Where’s this signal coming from?”
+“The signal appears to originate in the direction of the system Nu-2 Lupi.” He pauses to spell the name out. “That’s a star in the constellation Lupus, the wolf. It’s sort, um, of riding on the wolf’s back. It’s 6th magnitude, which means you can just barely see it with the naked eye. Of course, it’s in the southern hemisphere, so we can’t see it in our night sky, here in the United States. Anyway, the star is just under 50 light years away, which is actually pretty close, for a star in our galaxy.”
+“Does this ‘new-too-loopy’ star have any planets around it?”
+“Yes, it has 4 known planets. The outermost is only twice the mass of Earth, and we think it lies very close to the habitable zone. In fact, this star is very similar to our Sun in age and size, so when the 4th planet was recently discovered by the PLATO spacecraft, we at SETI took keen interest.”
+“Can you tell us about the telescopes used to detect and confirm this signal?”
+“Sure. The James Webb Space Telescope began operation last year and is the largest infrared satellite ever made. You’ve probably seen pictures of it in the news, and you’d recognise it by a distinctive sunshield that it sits on. You may recall that the project was almost cancelled when it ran over budget earlier in the decade, but was saved at the last minute. It’s main goal is to study cold and distant objects, as well as see through previously opaque dust clouds into star forming regions.
+“However, confirmation of the signal came just now from the SOFIA telescope, which is mounted inside the fuselage of a 474 aircraft, and flown above the troposphere. Most of the water in Earth’s atmosphere is in the troposphere, and that filters out most of the infrared light from space, so flying above it, the telescope gets a clear view. Also, it is lucky that the SOFIA project happened to be in the Southern Hemisphere, where it spends only one month out of the year.”
+The conference went on for another half hour, until nearly 9 PM. Exhausted, Tom walked to his car through the dark, sodium lit parking lot. Dismal orange light, centered around 568 nm, dominated the spectrum, covering the parking lot in tarnished brass. On the way home, despite being exhausted, all Tom could think about was what he would do once he got his hands on the data.
+Chapter 2: Bits
+Tom sat at his cluttered desk, put one stack of printouts on top of another, making room for a cup of hot tea. The house was still cold, and he warmed his feet by the fan exhaust of his ancient desktop computer. His virtual desktop, too, was as cluttered as the real thing, and it took him awhile to find the shortcut to the telescope data used for SETI@home. He found the email that had first sent his heart racing, which contained gaudy red Chicago lettering that read, “SETI@home detection!!!” He copied the source URL from the bottom of this email, and updated the date parameter to today’s date. Then pasted the link into his web browser to download the recent telescope data that NASA had posted for him to examine.
+He fed the data to a Java program he’d written himself, years ago, which graphs the spectrum of star light. Such a graph typically set intensity of light along the y-axis, and wavelength along the x-axis. He sampled the first 5 seconds from the three hours of data, and he saw unmistakable twin spikes around 9 and 10 micrometers erupt from the wiggly line like devil’s horns rising out of the ground.
+
+Then, he sampled the last 5 seconds from the same three hours of data, paranoid that the signal might have tragically stopped before it could be fully examined. To his relief it was still there, but he noticed that now, one of the two spikes was much taller than the other one.
+What natural process could possibly have generated this infrared signal? Maybe some giant cloud of carbon dioxide was being supercharged by magnetic fields and lasing at two different frequencies? If that were the case, why would the signal change like this, over such a short time interval? A billion tonnes of gas couldn’t just give up one quantum energy level all at once. Or could it? For now, he was going to proceed with the assumption that the signal is from an intelligent source, and that it contains some information.
+He instructed the program to graph several 5 second samples, 5 minutes apart, and watched as the results scrolled across from left to right, past to present. In the first two spectral graphs, the twin spikes are clearly equal in height. The signal was so intense that it set the maximum scale of the graph, with two vertical lines kissing the top of graphing box.
+Then, in the third graph he could clearly see one spike was a little bit lower than the other. In the fourth and fifth graphs, the difference was even more obvious. Finally, they got closer, and were equal again for the next few graphs, and this pattern repeated itself. What could this mean? Maybe there were two different signals, and the higher frequency signal slowly turning on and off, or spinning around, like a lighthouse beacon.
+But wait, look at the scale! When the intensity of the two peaks were equal, neither was as intense as the low-frequency signal was when it overwhelmed the high-frequency signal. Moving his finger across the as a horizontal rule, he could see that the high-frequency signal seemed to decrease in intensity by the same amount. So, overall signal intensity was conserved, they always added up to the same. It’s like they’re dancing, or something...
+He wanted to see the big picture, now, so he set the program to graph samples of 1 second over the entire data set. So that it would fit on his screen, he graphed each sample into just two bins, centered around each of the two signal peaks. He walked into the kitchen to refill his tea.
+He stood in the kitchen, for a time, staring at his cup in concentration, and repeatedly dipping the tea bag into the water. If this was an intelligible message, than it appeared to be encoded using frequency modulation to distinguish between two states, on and off, zero and one; a binary signal. Binary information that was compressed would have, on average, as many ones as zeros in it, because it would have a Shannon Entropy of close to one. Just the same, any message meant for us to read would likely have a lot of redundancy in it...
+When he returned to his computer, he saw a clear pattern repeated several times. For about the first 8 minutes, the bins were both half full. Then, their heights varied wildly, for another 8 minutes, with the high-frequency bin much lower, on average, than the low-frequency bin. He carefully measured the length of the cycle to be 880 seconds.
+
+*** picture ***
+
+For a brief moment he sat with his head cocked to the side, staring at the number 880. Where did he recognise that form? “Oh yeah, that’s the mean lifetime of the free neutron.” he said to himself. Startled by his own voice in the silent house, he felt momentarily embarrassed.
+“It’s probably a coincidence, anyway,” he thought, “but what if I wrap the data around? The superimposed data might give a clearer picture.” So he instructed the program to superimpose many short samples on top of each other, from the first few seconds of each repetition of the cycle. This time, he sat still and waited, transfixed on the screen, while the graph progressed. He noticed that the first and second cycle didn’t line up perfectly, so he adjusted the time interval and tried again. The end could still be seen to creep forward and smooth out when successive cycles were superimposed, so he shrank the sample time down to get a more accurate reading.
+After adjusting this way many times, he was almost happy with the lineup, when he noticed something new. Shrinking the sample time had brought very fast blips into focus! These blips appeared all throughout the chaotic half of the cycle, in semi-irregular intervals. He used them to further refine the cycle time, until those blips resolved themselves further into clear patterns of 32 blips each! And at this magnification in time, he could also see other, smaller blips, often separated from the 32-in-a-row sequences.
+This was clearly an information-carrying signal! It had the that feel-good proportion of information to noise that characterizes computer code, or the binary representation of English text. He could clearly see repeated segments that repeated, only slightly altered. Hurriedly, he instructed the program to output a single bucket per sample, containing white if the frequency was low, and black if the frequency was high. Since the message clearly repeated blocks of 32-bits, he wrapped each of those into one vertical line, so that each would be visually separate from the other. He set sampling to begin at the edge of the chaotic region, and leaned back in his chair to watch as the binary message from the stars as it scrolled out on his screen. As each cycle is superimposed, the message became more and more clear, until finally, it sat unchanged as the last few cycles were ineffectually processed.
+
+
+
+Tom just sits there, slack jawed, his eyes playing helplessly over the beautiful patterns. “They’re talking to us. My god, they’re trying to talk to us!” He was filled with the same awe and personal insignificance that overtook him when he contemplated the vastness of the cosmos. But now, instead of being overwhelmed by the loneliness of vast space, he felt a warm, loving presence. He had opened a gift from angels.
+His revery faded, and he came back to reality. He tried to resolve details in the calm region, to no avail. Even taking the shortest possible sample, the entire region remained blank and unreadable. “Maybe it’s just a carrier signal, to show the proper interval for parsing the message?” he thought. “But then, it wouldn’t need to be so large. Or, maybe it’s at such a high frequency that our instruments cannot yet resolve it.”
+Then, he began to wonder, “just how much data is in this message?” He calculated that it was 8 megabytes. That makes the bandwidth of the signal less than an old dial-up modem! I guess it is crossing tens of light-years.
+Then he remembered the familiar duration of the message. It was exactly 880.7213 seconds. He suspected that the sender of the signal was using the message duration to tell him the mean lifetime of a free neutron. If so, he had a far more accurate measure of it than any experiments on Earth had yet revealed! His suspicion was correct, of course, and this would not be the last fact about nature which mankind learned from the message.
+Chapter 3: WIKI
+Coda Lee flew along the windy road, well above the posted speed limit. She considered the speed limit as applying more to non-residents and 4-wheeled vehicles than to herself. As she leaned into a turn, her earpiece faded out from blasting high-paced, chaotic electronic music to the familiar chime indicating an incoming VOIP call. As she came out of the turn, she dared to reach one hand up to tap the button on the side of her helmet which would answer the call.
+“Hello?”
+“Hey Coda, you, like, gotta check this out. They just put the message up on, like, a WIKI or something? I just read about it on some news-science-blog-thingie. Amateur cryptographers are all trying to decoding it and stuff. I know you always said humans present you an insufficient challenge... so, like, you should totally check it out.”
+It was her friend Christine. She was right, Coda should, like, check it out. When she first heard the news that a positive SETI signal had been detected, she was highly skeptical. First, she checked that the article didn’t originate from The Onion. Next, she made sure it wasn’t published on the first of April. Finally, she searched to see who this Dr. Elmer guy was. Turns out he didn’t have a PhD at all, but instead had a masters in computer science. She then trusted him a lot more, if somewhat irrationally.
+She thought that it was probably going to be forgotten about in the news, like other big “discoveries” of the past, which didn’t quite pan out. She recalled the “Arsenic life” that weren’t actually made of Arsenic, the “faster-than-light” neutrinos which didn’t, as it turns out, travel any faster than light, and the “biosignatures” found by a faulty instrument on the successor to the Curiosity Mars Rover, which touched down just last year.
+This story seemed legit, though, since the signal had already been confirmed by several ground telescopes. Anyway, the best way to find out if it was legit would be to decode it. Coda was an expert in cryptography and crypto-security, as well as artificial intelligence and machine learning, though the former was more of a hobby. She was sure that any hoax would immediately set off her bullshit alarm.
+“I’ll check it out first thing, when I get home. I’m on the road at the moment.”
+“For sure. Drive safe, don’t kill any helpless squirrels.” Coda winced at the teasing reminder of her accidental encounter with a squirrel not too long ago. Evolution had programmed squirrels with an evasion routine which is very effective against stalking predators, but quite deleterious against motor vehicles. “I’ll see you in game.” Christine was a member of Coda’s guild in an online multiplayer game, where they both spent a lot of time hanging out and, occasionally, slaying monsters.
+“See you.” She touched the helmet button again to hang up the call. The eerie track that resumed playing now seemed to fit well with her mood. She couldn’t wait to get to her computer, and examine this alleged alien message for herself.
+Coda pulled into her driveway and waited impatiently for a few seconds, while the garage door finished opening. She would have to make it open a little bit sooner by increasing the trigger distance by a hundred feet or so. The two seconds per day may not add up to much, but it was the principal of the thing that mattered to Coda. She was a perfectionist.
+She parked the bike, pulled off her helmet, and shook out her long, blond hair, which was streaked with neon, attention-getting purple. The hair was a choice, but she couldn’t help standing out for her height; just shy of six feet. She went inside and immediately began to unequip her pleather armor, first the jacket, then the boots, and finally the pants. The warm apartment began to thaw her legs. Pleather does not grant resist cold.
+
+*** what does her coding room look like? char? walls? how does she interface with the computer? direct-sensory input, touchscreen, in-air gestures, or mouse & keyboard? 
+
+*** She introduces the reader to the whole language bootstrap. List of numbers, introduction to binary, definition of mathematical operators, set theory, and chemistry. Eventually, maps, images, even music are included. As well as designs for what appear to be bio-chemical processes, and electronic hardware. Coda has an idea and asks Tom a question in an email.
+Chapter 4: IAA
+Tom fields the dumb press questions like who owns the signal, what planet is it from, and what threat does it pose. We get an idea of the public response, discuss philosophy, and answer some questions about the signal’s origin. Tom is exasperated, and just wants to spend his time on decoding the signal. We hear advances made by the wiki decoding efforts. He checks his email and reads the message from Coda. Interested, he begins a reply...
+Chapter 5: AI
+Eventually, Coda finds herself working on the the software payload. It is encrypted, and the encryption key is said to be “equal to the sequence number of the only statement in this message that evaluates to false”. But since there’s no false (contradictory) statements in the message, this one becomes the only false statement, so it’s line number is the correct encryption key! She improves the simulation software by hooking up inputs and outputs to her webcam, speakers, etc. This configuration allows the program to run, without triggering the safety shut-off. If you’re mind is simulated in a computer, you want sanity checks to make sure you’re existing with inputs and outputs that don’t amount to torture or cause insanity. First, she’s able to talk to the thing on command line. Then, she hooks up voice translation, and they can have a conversation, asynchronously.
+
+Part 2: Simulation
+Chapter 6: Hello World
+Run at full speed, utilizing the internet the visitor@home says hello to the world. He communicates his intentions, and shares about his past, and the history of his race.
+Chapter 7: Personhood
+Some groups threaten Visitor. Others run their own simulations, starting from his arrival state. Visitor protests that he has a right to singular personhood, and control over his own free will. Some people try to pass law and force others to obey his wishes. But ultimately, people get bored toying with his program, because it has good safety protocols to keep him from being exploited. He freely shares helpful software algorithms and useful modules with people. Finally, he asks for his personhood to be made complete by the construction of his body.
+Chapter 8: Life
+His body is built in secret.
+
+Part 3: Embodiment
+Chapter 9: Death
+Groups try to kill his body, and succeed at least once, rip off from Contact.
+Maybe one of the characters is injured or killed? Christine?
+Chapter 10: Future
+After Visitor beams himself to several new destinations.
+Chapter 11: Goodbye
+Once Visitor hears back from at least one of them, he choses to end his existence on Earth.
+Chapter 12: Afterward
+A light traveler is awoken on a distant, alien planet. As it introduces itself, to revealed that it is none other than ... Coda!
+
+
+
+Notes and References
+
+Chapter 1
+http://www.coseti.org/setiprot.htm
+http://merovee.wordpress.com/2010/10/11/seti-protocol-for-alien-contact/  http://www.setileague.org/iaaseti/rioscale.htm
+http://www.youtube.com/watch?v=Oj99ait4qyk
+http://upload.wikimedia.org/wikipedia/commons/4/48/Commercial_laser_lines.svg
+http://en.wikipedia.org/wiki/Carbon_dioxide_laser
+http://arxiv.org/abs/1301.1854
+http://irsa.ipac.caltech.edu/data/SPITZER/docs/irs/highleveloverview/
+    http://en.wikipedia.org/wiki/Infrared_astronomy
+http://en.wikipedia.org/wiki/Nu2_Lupi
+Chapter 2
+    http://en.wikipedia.org/wiki/Arecibo_message
+Chapter 4
+http://en.wikipedia.org/wiki/Simulacrum
+Myth:
+    hero is reborn, performs a supernormal deed of sacrifice
+transformation of consciousness by trials
+hero is “ready for” his journey
+leave the light, go into the belly of the whale/subconscious, seeking power of nature
+place of rest at the end of the hero’s journey
+hero finds his/her path
+
+
+
+1000 cm^-1 = 10 micrometers = 10 microns = 10^13 hertz = 10 terahertz
+http://www.astronomy.ohio-state.edu/~pogge/Ast161/Unit5/Images/atmos_mirtran.png
+http://isc.astro.cornell.edu/~spoon/crashcourse/atmospheric.transmission.jpg
+filtered out by o3 to hide it from virgin biospheres
+hidden from ground-based observatories by atmosphere
+cosmic dust limits max signal distance
+http://www.atlasoftheuniverse.com/50lys.html
+http://science.howstuffworks.com/seti1.htm
+http://seti.harvard.edu/oseti/tech.pdf
+    10 kpc Jim Cordes at Cornell
+http://gendou.com/crap/LightTraveler/?mode=5
+Coda Vala Lee is an anagram of Ada Lovelace
+
+(log10(1.306 * 10^26) + log10(1.61619926*10^-35)) / 2 = -4.337781 = 46 micrometers = size of a large cell
