@@ -1,5 +1,6 @@
 Gods, All the Way Down
 by James Weisner
+
 Chapter 1
 
     “Come on, you can do it. Just a little closer.” Philip said aloud in the the empty laboratory. His eyes darted back and forth between the calorimeter activity light and the beam alignment graph. In the display, the clockwise and counterclockwise beams appeared right on top of each other. Then the activity light blipped. Just alight for one short pulse, and then dark again for an eyeblink.
@@ -30,32 +31,68 @@ As if in reply, the status light went out accompanied by an audible pop. The ban
 * Philip is an experimentalist with an undergrad assistant.
 
 * Phillip measuring bekenstein-hawking radiation, repeating a previous experiment by Ethan.
+
 
 Chapter 2
 
-Charles discovers message in CMBR.
-Charles is a theoretician playing with new beyond-Planck data.
+	Amaia sat at the coffee table. She picked up her half-finsihed tea, and -- upon realizing, not for the first time, that it had gone cold -- she set it back down again. "Another battle lost to entropy," she thought to herself. "But while I still draw breath, the war is not lost." This proved sufficiently heroic for her to stand up and add some hot water. And another sugar, for good measure. "But it's not sugar. It was sugar. Then they replaced three hydroxy groups with chlorine." In her mind's eye she imagined the stick and ball model undergoing the three simultanious chemical substitutions. "The perfect sweetness monster to fool this fruit eater. But why is chlorine always represented by green? Chlorine gas is more greenish yellow. I guess sulfur is already represented by yellow."
+	She could feel herself procrastonating. She looked down at the shaft of light on the table. Like a sundial it had been creeping across thickly laquered wood, inch by inch. It was just now touching the corner of her laptop. "Finally, beak time!" she said aloud.
+	"Huh?" came the muffled reply from her husband's office down the hall.
+	"Sorry, inside-words snuck out again. I'm headed out for a walk to get the old brain juices flowing."
+	"Gross."
+	She smiled, made a "hand heart" gesture, then hurried out of the room. Her watch picked up the gesture and the app she had to write herself -- because she wasn't going to pay $2.99 for such a simple app -- it sent a heart enmoji to Gabe, her husband. "Love you, too!" came the muffled reply from down the hall.
 
+	"Out in the sunlight, at last. Into nature. Where I belong. Correction: where I receive the most pleasurable stimuli because it most closely resembles the habitat of my recent evolutionary ancestors. Monkey girl likes monkey world." She briefly stuck out her elbows in a regretably speciesist impression of other venerated members of the family of great apes, immidiately regretted it, and looked arount to be sure nobody was watching. Someone was watching. She briefly examined her feelings and they told her she did not care. They also did the monkey walk back at her, and she felt a little bit called out. Her feelings sometimes called her out like that. "Rude."
+	"Now that I'm taking a break, maybe I can actually get some work done. Ironic, sure, but genuinly a thing in the life of a theoretician." She came upon an old wooden post with trail names carved into its sides. The yellow paint meant to make the letters visible had most flaked off. But she knew these trails like the back of her hand. "When you come to a fork in the road, take it," she thought, and tied to pick a trail random. But the cosmos, having laws that are deterministic, did not allow her to freely choose a path.
+	The path she chose is no less a logical consequence of the universal wave function than the sum of two integers is a consequence of their respective numerical values. Free will, consciousness, and the forward flow of time are illusions on the walls of Plato's cave. "Stop that. I have real things to think about."
+	The trail bent steeply up a significant hill, and she began to breathe more heavily. Her feet kept a constant and punishing rhythm. Slight burning in her calves when they extended and in her quads as they lifted her up the hill. As she sank into the rhythm and the excertion, she was finally as awash in peace as she was in sunlight.
+	"There's something strange in the cosmic gravitational wave background, I'm going to get to the bottom of it."
+
+	Hours later Amaia noticed she was at her front door. She put her hand on the door knob. But the knob didn't turn. She wasn't done thinking yet. She felt so close. Like some nasty little incorrect assumption was a mouse and she was a cat. It moved there, just there in the corner of here vision. If she stood very still she might see it move -- and then pounce. Then she caught a whiff of cooking from inside. "Is it dinner time already?" she said aloud as she opened the door.
+	"Ten minutes. Hope you're hungry," says Gabe. 
+	She looked at her watch. Nine miles. From this she concluded, "Yes, famished."
+	"Did you unlock the secrets of the cosmos?"
+	"Almost."
+	"Beef noodle. With 'happy cow' from Al and Debbie."
+	Amaia leaned over the bubbling pot and inhaled deeply. "It was right here all along."
+	"The secret of the cosmos?"
+	"Yep. This beef noodle. Right here. The whole Big Bang was just the pretext for it."
+	"Once it's eaten, is that it? Curtain call on existence?"
+	"No. See the rotini? They have a conformal factor that approaches zero at timelike infinity so the attached future boundary is a regular hypersurface..."
+	Amaia stopped speaking, but her lips kept moving, slowly, soundlessly mouthing words. Her eyes were focussed on someplace distant, someplace visible -- at this moment -- only to her. She got goose bumps. "A vestigial reaction meant to raise up body hairs to appear bigger and scare off those other animals -- over there in the shadows -- that really shouldn't be doing whatever it is that they're doing."
+
+* Amaia is a theoretical cosmologist playing with new beyond-Planck data.
+* Amaia discovers message in CMBR.
 
 
 Chapter 3
 
-Phillip figures out a way to see into bubble universes.
+... another wound in spacetime writhed and shook, expanded and cooled, filled with atoms, dust, stars, planets, and finally, life. And only a billion or so years later, Nacre was born.
+	Well, actually he clawed his way out of an egg sack stuck to the underside of a rock in the tiny pile his parents called a nest. Small at birth, he was destined for bigger things. Or so he had always believed. His whole life he had faith that the crab king Himself had whispered this destiny to him at birth. He grew enormous in size, and influence. He established a great school, and verily they did travel the ocean bottom in search of untouched whale falls and pristine hydrothermal vents. By the grance of the crab king, he led his people to riches exceeding in abundance.
+	And it came to pass that one day he did become old and frail. Soon, his second in command would set upon him and kill him and devour all of his remains. This is the way of his people, as it has always been since the tale of the crab king was first delivered to crabkind in divine revalation to the profits many hundreds of generations ago. And so it came to pass that, in this final hour when he felt the end coming, he did cry out with the last of his strength.
+	He did beseeched unto the crab king that, before he met his end, He finally reveal Himself. "Have I not been a loyal servant my entire life? My offspring numbered in the millions. My people have prospered. I have kept the commandments. I have eaten the weak. I have fought back the strong. I have secured mana in quantities unseen since the time of the profits.
+	"You appeared to Saul. You dismembered Jacob. You fertilized the Adam's first clutch. Why are my signs so intangible? Am I not deserving of more than a mere whisper? You created everything! The sky of ice above. The warmth below. You raised up the hydrothermal vents. You send down whales from your icy throne. But for me, your greatest servant in living memory, only a whisper. Why?! Am I not worthy of your glory? What more must I do?"
+	From behind him, then, came a rapping of legs. He recognized the voice of his first in command who said, "You must die, Nacre. Only then will you be given the greatest gift of all. Union with all things, union with the creator of all things. Only in death will you see the crab king face to face. He created all the things that are good, yes. But he also created parasites, sickness, and even death."
+	"I do not beleive such blasphemy," said Nacre. "The creator is good. There must be some reason, some imperfection of my spirit, that kept the creator hidden from me. Why else would He hide Himself my whole life? Never once giving reasurance when I needed it the most? Never once offering me guidance when I needed to know the way? There must be some reason!"
+	"Nacre, my poor old friend. You'll just have to ask him yourself."
+
+ * Meanwhile, in the shadows, phillip runs another test.
+ * Phillip figures out a way to see into bubble universes.
 
 
 
 Chapter 4
 
-Charles puts the message on the Internet to get help decoding it.
+Amaia puts the message on the Internet to get help decoding it.
 He doesn’t tell them where it came from.
 The question is ramp up from math to basic physics.
-It asks for the constants of nature to a specified precision.
+It asks for the prime factors of a large number.
 
 
 
 Chapter 5
 
-Phillip hears about the message and meets Charles.
+Phillip hears about the message and meets Amaia.
 
 
 

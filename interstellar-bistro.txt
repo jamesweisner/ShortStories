@@ -1,9 +1,27 @@
 Interstellar Bistro
 -------------------
 
-Earth’s first contact with an extra-terrestrial technological civilization was typical of such encounters in the outer-spiral-arm backwater. When the Interstellar Bistro began to decelerate from its cruising velocity of 75% light speed, it was just outside the orbit of Neptune. Its brilliant exhaust flame was a new, brilliant blue star that outshone all others in the night sky. The UN's then-appointed space ambassador, having seen one too many Bruce Willis movies, broadcasted to the world his promise to defend Earth by force if necessary. The denizens of the approaching restaurant were less afraid of this threat, and more embarrassed for us. But once the people of Earth took the time to establish a radio communication, their fears were quickly abated. Their reputation as want-to-be fierce warriors, however, remains to this day. 
+	Earth’s first contact with an extra-terrestrial technological civilization was typical its backwater neighborhood in the Milky Way's outer spiral arm. When the Interstellar Bistro began to decelerate from its cruising velocity of 75% light speed, it was just outside the orbit of Neptune. Its brilliant exhaust flame was a new, brilliant blue star that outshone all others in the night sky.
+	The UN's then-appointed space ambassador, having seen one too many Bruce Willis movies, broadcasted to the world his promise to defend Earth by force if necessary. The denizens of the approaching restaurant were not afraid of this threat. They were slightly embarrassed for us. But they'd seen worse reactions before. Once the people of Earth took the time to establish a radio communication, their fears were quickly abated. Their reputation as want-to-be fierce warriors, however, remains to this day.
+	After a typically protracted period of squabbling on the part of the humans, it was decided that lottery system would be used to select who would patromnize the Interstellar Bistoro. A fixed number of winners from each UN member state would be permitted to partake in this unique dining experience, proportional to population size.
+	Payment for dining services was quickly arranged and eagerly agreed to, as the total export -- a couple hundred tonnes of grains, berries, livestock, and fungal spores -- represented in value only percent of the cost of launching them in to space; a service provided for free by the visiting aliens. Apparently there was an additional "paymeny" of small, icy asteroids that would be consumed to fuel the space craft on its departure. The people of Earth were reassured these would not be missed.
 
-* introduce protagonists
+	Reginald sat in his dark apartment lit only by his computer screen. "What do you think, Ashe?" Reginald asked his feline companion. "I'd only be gone one night," he said. Ashe swished her tail once and did not look up. "Okay then, here we go," he said, and submitted his entry to the insterstellar dining lottery. Reginald has never won anything in his live before. So when he got the email saying he was selected, it took him quite by surprise.
+
+	The next day, Reginold sat at a small round table at the cafe around the corner. His sister, Pamela, sat across from him. "I'm so excited for you!" she said, between sips of her espresso.
+	"Thank you sister. But I can't help feeling guilty."
+	"Guilty? What for?"
+	"Because they chose me instead of someone who's a real foodie. I'm just an amature."
+	"Nonsense, you're as deserving of this experince as anyone. You love science fiction. You love those cooking shows."
+	"Sure, but how much more a micchalin star chef would get out of this opportunity?"
+	"I see what you mean. You're not wrong. But the UN chose a lottery system. That's not on you. Don't let the imposter syndrome spoil a good time."
+	"Thank you sister. I won't."
+	"Just think, you were among only a few thousand people chosen to represent Earth to denezins from all over the galaxy!"
+	"That's not helping my imposter syndrome."
+	"Right, sorry, sorry. But really, you'll be fine. Just channel your inner Carl Sagan up there. Is there a single book of his you haven't read."
+	"No. I've read them all. That's good advice. That's what I'll do. Channel my inner Sagan."
+
+	Reginold stood in a small windowless room with five other patrons. Beyond prefunctory greetings, they had not said much to one another. Primarily this was because none of them spoke the same language as they were from all over the world. But also they were, the lot of them, frightened to take their very first trip into space.
 
 * describe journey to space
 
@@ -79,3 +97,7 @@ escargot bros hidden as “guests” because they’re sentient
 end: they decide to become denizens and see other star systems
 initiation ritual observed by all the other passengers
 next stop: Alpha Centauri
+
+Will you be having an eusocial or group-mind experience this evening?
+Do many species like me request such a thing?
+No, but it would be impolite not to ask.
